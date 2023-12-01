@@ -36,16 +36,16 @@ Example Usage:
 
 Create a student:
 Enter student name: John Doe
-Enter student email: johndoe@example.com
+Enter student email: jaunnelia@gmail.com
 Enter student age: 25
 Student created successfully!
 Read students:
 Students:
-(1, 'John Doe', 'johndoe@example.com', 25)
+(1, 'Jaun Elia', 'jaunelia@gmail.com', 25)
 Update a student:
 Enter student ID to update: 1
-Enter new student name: Jane Smith
-Enter new student email: janesmith@example.com
+Enter new student name: Faiz Ahmed
+Enter new student email: faizahmed@gmail.com
 Enter new student age: 30
 Student updated successfully!
 Delete a student:
